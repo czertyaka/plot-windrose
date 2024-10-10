@@ -1,0 +1,4 @@
+windrose==1.*
+numpy==2.1.*
+matplotlib==3.9.*
+argparse==1.4.*
